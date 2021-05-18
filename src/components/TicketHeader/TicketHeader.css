@@ -1,0 +1,18 @@
+.ticket-header{
+    display: flex;
+    margin-top: 1em;
+    width: 100%;
+}
+
+.ticket-header-button{
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+}
+
+.ticket-header-text{
+    margin: 0 auto;
+    color: white;
+    font-weight: 500;
+}

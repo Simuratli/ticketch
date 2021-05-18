@@ -1,0 +1,19 @@
+.buy-button-container{
+    height: 10vh;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    bottom: 0;
+    background-image: linear-gradient(to bottom, rgba(37, 38, 44, 0),rgba(37, 38, 44, 1))
+}
+
+.buy-button-container button {
+    width: 90vw;
+    background-color: #FF6153;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
